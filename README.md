@@ -28,6 +28,12 @@ My GitHub is a mix of things I want to use myself: terminal utilities, small des
 
 [See all my repositories →](https://github.com/yxzroot?tab=repositories)
 
+### Recent activity
+
+<p align="center">
+  <a href="https://github.com/yxzroot?tab=overview"><img src="assets/activity.svg" alt="Public GitHub contribution activity over the last 31 days, refreshed daily" width="100%" /></a>
+</p>
+
 ### Languages & tools
 
 <p>
